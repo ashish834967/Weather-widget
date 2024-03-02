@@ -1,0 +1,10 @@
+.cardContainer{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+.para{
+    font-size: 18px;
+    font-weight:500;
+    
+}
